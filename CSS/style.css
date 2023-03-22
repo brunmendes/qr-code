@@ -1,0 +1,33 @@
+body, html{
+    background-color: hsl(230, 100%,92%, 0.9);
+    font-family: sans-serif;
+}
+
+p{
+    color: #a3a3a3;
+    width: 280px;
+}
+
+.main{
+    background: white;
+    text-align: center;
+    padding: 15px;
+    width: 300px;
+    height: 475px;
+    border-radius: 15px;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.qrcode-img{
+    width: 300px;
+    height: 300px;
+    border-radius: 15px;
+    /*text-align: center;*/
+}
+
+
+
+
